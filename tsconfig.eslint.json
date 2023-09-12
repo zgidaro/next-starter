@@ -1,0 +1,10 @@
+{
+  "include": [
+    ".eslintrc.js",
+    ".prettierrc.js",
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx"
+  ]
+}
